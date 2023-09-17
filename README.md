@@ -8,3 +8,4 @@ PowerShell scripts for training purpose.
 
 # Further info
 - https://adamtheautomator.com/
+- https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction
